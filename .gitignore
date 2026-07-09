@@ -1,0 +1,6 @@
+zig-pkg
+.zig-cache
+zig-out
+
+tinywl/tinywl
+tinywl/*.o
